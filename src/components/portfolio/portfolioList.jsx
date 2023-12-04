@@ -2,8 +2,8 @@ export const portfolioList = [
   {
     image: "https://trendtype.com/wp-content/uploads/2019/05/Glovo.png",
     title: "Glovo App Clone",
-    githubLink: "",
-    liveSiteLink: "",
+    githubLink: "https://github.com/Olamilekan-12/foodstreet-client",
+    liveSiteLink: "https://foodstreetpro.netlify.app/",
   },
   {
     image:
